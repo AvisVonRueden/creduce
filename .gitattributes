@@ -1,4 +1,5 @@
-*			text=auto
+ 			text=auto
 CMakeLists.txt		export-subst
 git-hash.sh		export-subst
 tests/test0.bat		-text
+ 
